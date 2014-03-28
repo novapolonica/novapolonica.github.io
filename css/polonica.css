@@ -1,9 +1,13 @@
+h1, h2, h3{
+	font-family: 'Advent Pro', sans-serif;
+}
+
 .info-block{
 	position: relative;
 	min-height: 300px;
 	height: 66%;
 	color: #FFF;
-	margin-bottom: 4em;
+	margin-bottom: 2em;
 	box-shadow: 0 0 5px rgba(0,0,0,.3),0 1px 3px rgba(35,31,32,.3),0 1px 3px rgba(35,31,32,.3);
 }
 
@@ -32,7 +36,7 @@
 }
 
 .about-company h1, .about-company h2{
-	font-weight: bold;
+	/* font-weight: bold; */
 	color: #FFF;
 	text-shadow: 0 0 15px rgba(0,0,0,.6),0 1px 6px rgba(35,31,32,.9),0 1px 6px rgba(35,31,32,.9);
 	filter: progid:DXImageTransform.Microsoft.Shadow(color=#0000FF,direction=45);
