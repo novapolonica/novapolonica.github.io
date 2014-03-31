@@ -1,5 +1,15 @@
+@font-face {
+	font-family: 'AdventPro';
+	src: url('../fonts/AdventPro/AdventPro.eot');
+	src: local('AdventPro'),
+		url('../fonts/AdventPro/AdventPro.woff') format('woff'),
+		url('../fonts/AdventPro/AdventPro.ttf') format('truetype'),
+		url('../fonts/AdventPro/AdventPro.svg#AdventPro') format('svg');
+}
+
+
 h1, h2, h3{
-	font-family: 'Advent Pro', sans-serif;
+	font-family: 'AdventPro', sans-serif;
 }
 
 .info-block{
